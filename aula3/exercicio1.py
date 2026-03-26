@@ -9,8 +9,8 @@
 #  AUTOR: DANIEL GOMES TORRES
 #=========================================================================================
 
-presenca = int(input('Digite a sua porcentagem de presença no semestre: '))
-nota = int(input('Digite qual foi a sua nota nesta disciplina: '))
+# presenca = int(input('Digite a sua porcentagem de presença no semestre: '))
+# nota = int(input('Digite qual foi a sua nota nesta disciplina: '))
 
 
 # #Esse if, vai desenvolver a lógica e saber se a presença é maior ou igual a 75 e a nota é maior ou igual a 6
@@ -40,6 +40,6 @@ def aprovado(nota, presenca):
     else:
         print('\n Você ficou detido nesta disciplina')
 
-
+aprovado(3, 54)
 
 
