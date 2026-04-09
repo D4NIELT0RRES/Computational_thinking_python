@@ -1,16 +1,16 @@
-from datetime import datetime
 #=====================================================================================================
 #  OBJETIVO: Recebe um nome e uma idade, retorna uma string falando se aquela pessoa pode ou não votar
 #  DATA: 08/04/2025
 #  AUTOR: DANIEL GOMES TORRES
 #=====================================================================================================
 
+def posicao(velocidade, kmAtual):
+    psc1 = velocidade + kmAtual
+    psc2 = psc1 + kmAtual
+    print(f'A posição do seu carro daqui 2 horas será {psc2}')
+    return psc2
 
-def calculoIdade(nome, ano_nascimento):
-    agora = datetime.now()
-    anoAtual = agora.year 
-    idade = anoAtual - ano_nascimento
-    print(f"{nome} você tem {idade} anos de idade")
-    return idade
-
-a = calculoIdade("Daniel", 2007)
+a = posicao (100, 1)
+# assert a == 140
+# b = posicao (200, 5)
+# assert b == 250
