@@ -7,4 +7,7 @@ def alturaValida(valida):
 def media(valor1, valor2, valor3):
 
     if alturaValida(valor1) and alturaValida(valor2) and alturaValida(valor3):
-        return()
+        return (valor1 + valor2 + valor3) / 3
+    return False
+
+print()
