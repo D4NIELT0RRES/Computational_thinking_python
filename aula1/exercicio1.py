@@ -1,6 +1,6 @@
 #=====================================
 #  OBJETIVO: Cálculo do IMC do usuário
-#  DATA: 18/03/2025
+#  DATA: 18/03/2026
 #  AUTOR: DANIEL GOMES TORRES
 #=====================================
 

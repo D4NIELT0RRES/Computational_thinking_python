@@ -1,7 +1,7 @@
 from datetime import datetime
 #=====================================================================================================
 #  OBJETIVO: Recebe um nome e uma idade, retorna uma string falando se aquela pessoa pode ou não votar
-#  DATA: 08/04/2025
+#  DATA: 08/04/2026
 #  AUTOR: DANIEL GOMES TORRES
 #=====================================================================================================
 

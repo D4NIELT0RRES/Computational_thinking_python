@@ -6,7 +6,7 @@
 #           Pessoa tem a obrigação de votar (obrigacao_voto)
 #           Pessoa tem o voto, mas opcional (voto_opcional)
 #
-#  DATA: 25/03/2025
+#  DATA: 25/03/2026
 #  AUTOR: DANIEL GOMES TORRES
 #=========================================================================================
 

@@ -2,7 +2,7 @@ from datetime import date
 
 #=======================================================================================================================================================
 #  OBJETIVO: Ler o ano de nascimento de uma pessoa (assumindo que ela já fez aniversário esse ano) criar uma variável que indica se ela é maior de idade
-#  DATA: 22/03/2025
+#  DATA: 22/03/2026
 #  AUTOR: DANIEL GOMES TORRES
 #=======================================================================================================================================================
 

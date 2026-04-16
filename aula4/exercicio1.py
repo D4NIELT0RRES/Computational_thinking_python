@@ -3,7 +3,7 @@
 # 
         #Escreva um código que define as seguintes variáveis: velocidade do carro e velocidade máxima permitida. Se a velocidade for maior que a máxima permitida, imprima “você tomou multa”
 
-#  DATA: 27/03/2025
+#  DATA: 27/03/2026
 #  AUTOR: DANIEL GOMES TORRES
 #=========================================================================================
 

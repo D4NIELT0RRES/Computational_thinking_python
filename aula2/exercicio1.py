@@ -1,6 +1,6 @@
 #=========================================================================================
 #  OBJETIVO: Ler a idade da pessoa e criar uma variável que indica se ela é maior de idade
-#  DATA: 22/03/2025
+#  DATA: 22/03/2026
 #  AUTOR: DANIEL GOMES TORRES
 #=========================================================================================
 

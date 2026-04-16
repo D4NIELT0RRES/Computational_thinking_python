@@ -5,7 +5,7 @@
 #           considerando seu salário mensal – procure no google o salário anual mínimo que exige o 
 #           pagamento de imposto
 #
-#  DATA: 25/03/2025
+#  DATA: 25/03/2026
 #  AUTOR: DANIEL GOMES TORRES
 #=========================================================================================
 
